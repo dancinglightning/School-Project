@@ -8,7 +8,7 @@ hangman finlal 24 - somesh jadhwani
 
 UNO-RISHABH
 MORSE-RISHABH
-FIFA-HAGAN BASHEER
+FIFA-HANAN BASHEER
 
 
 
