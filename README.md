@@ -1,14 +1,13 @@
-# school-project
-please submit with ur name
+# School-Project
 
-blackjack24 -somesh jadhwani 
+Blackjack24 -Somesh Jadhwani 
+Encryptor 24 - Somesh Jadhwani 
+Hangman finlal 24 - Somesh Jadhwani 
 
-encryptor 24 - somesh jadhwani 
-hangman finlal 24 - somesh jadhwani 
+UNO - Rishabh
+MORSE - Rishabh
 
-UNO-RISHABH
-MORSE-RISHABH
-FIFA-HANAN BASHEER
+FIFA '18 - Hanan Basheer
 
 
 
